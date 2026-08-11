@@ -1,0 +1,23 @@
+{
+  "PPO": {
+    "cumulative_return": 0.005038135428822699,
+    "annualized_return": 0.001177665576869158,
+    "annualized_volatility": 0.0067285666895017865,
+    "sharpe_ratio": 0.17502473130073973,
+    "max_drawdown": -0.01001578989418668
+  },
+  "A2C": {
+    "cumulative_return": 0.06135545783380092,
+    "annualized_return": 0.014043608544550334,
+    "annualized_volatility": 0.06281013831109598,
+    "sharpe_ratio": 0.22358824422568424,
+    "max_drawdown": -0.10807964978648914
+  },
+  "DDPG": {
+    "cumulative_return": 0.182579055655274,
+    "annualized_return": 0.0400563814082453,
+    "annualized_volatility": 0.08483437295851756,
+    "sharpe_ratio": 0.47217159756496496,
+    "max_drawdown": -0.10809752706241112
+  }
+}

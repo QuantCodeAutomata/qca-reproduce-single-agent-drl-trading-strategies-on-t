@@ -1,0 +1,39 @@
+# DJIA-30 fixed membership as of 2016-01-01
+#
+# Design choice: the universe is frozen at the 2016-01-01 composition to
+# avoid look-ahead bias relative to the trading-period start date of
+# 2016-01-04.  This is a survivorship-style simplification — stocks that
+# were later removed from the index (e.g. DD) or are no longer traded under
+# these symbols remain in the universe throughout the entire 2009-2020
+# back-test window.  This matches the approach taken in the FinRL /
+# Ensemble DRL paper.
+AAPL
+AXP
+BA
+CAT
+CSCO
+CVX
+DD
+DIS
+GE
+GS
+HD
+IBM
+INTC
+JNJ
+JPM
+KO
+MCD
+MMM
+MRK
+MSFT
+NKE
+PFE
+PG
+T
+TRV
+UNH
+UTX
+V
+VZ
+WMT

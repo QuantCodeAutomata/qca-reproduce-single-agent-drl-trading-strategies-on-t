@@ -1,0 +1,16 @@
+{
+  "DJIA": {
+    "cumulative_return": 0.39226630837798937,
+    "annualized_return": 0.07928550176675797,
+    "annualized_volatility": 0.20045882834432968,
+    "sharpe_ratio": 0.3955201296027165,
+    "max_drawdown": -0.3708617136959433
+  },
+  "MinVariance": {
+    "cumulative_return": 0.4394486586254227,
+    "annualized_return": 0.08752705655440174,
+    "annualized_volatility": 0.15983829512622483,
+    "sharpe_ratio": 0.5475975359051555,
+    "max_drawdown": -0.2660931639388391
+  }
+}

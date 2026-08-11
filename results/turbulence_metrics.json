@@ -1,0 +1,34 @@
+{
+  "full_period": {
+    "PPO_with_turbulence": {
+      "cumulative_return": 0.003036727993251276,
+      "annualized_return": 0.0007103784678916814,
+      "annualized_volatility": 0.010557985476278505,
+      "sharpe_ratio": 0.06728352387751879,
+      "max_drawdown": -0.012247415248563152
+    },
+    "PPO_no_turbulence": {
+      "cumulative_return": 0.0277529763786728,
+      "annualized_return": 0.00643180432675905,
+      "annualized_volatility": 0.1148427806680728,
+      "sharpe_ratio": 0.05600529950026839,
+      "max_drawdown": -0.2819310279605565
+    }
+  },
+  "crash_period": {
+    "PPO_with_turbulence": {
+      "cumulative_return": -0.008812768939457372,
+      "annualized_return": -0.025604425253684227,
+      "annualized_volatility": 0.013672601297001813,
+      "sharpe_ratio": -1.872681335284667,
+      "max_drawdown": -0.011024100565487523
+    },
+    "PPO_no_turbulence": {
+      "cumulative_return": -0.15473749657927538,
+      "annualized_return": -0.38896171765626886,
+      "annualized_volatility": 0.36808305809501896,
+      "sharpe_ratio": -1.0567226855517489,
+      "max_drawdown": -0.2819310279605565
+    }
+  }
+}

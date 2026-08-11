@@ -1,0 +1,14 @@
+data/*.parquet
+data/*.csv
+data/*.pkl
+__pycache__/
+*.pyc
+.env
+artifacts/
+*.zip
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+*.log
+models/
